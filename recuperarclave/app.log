@@ -1,0 +1,23 @@
+
+Fri, 04 Jun 2021 18:28:52 +0200 : NO domainId
+
+Fri, 04 Jun 2021 18:28:52 +0200 : NO senderId 
+
+Fri, 04 Jun 2021 18:28:52 +0200 : NO concat 
+
+Fri, 04 Jun 2021 18:28:52 +0200 : NO encoding
+
+Fri, 04 Jun 2021 18:28:53 +0200 : Server Altiria response: ERROR errNum:020
+
+Fri, 04 Jun 2021 18:28:53 +0200 : Error sending SMS: ERROR errNum:020
+
+Fri, 04 Jun 2021 18:33:52 +0200 : NO domainId
+
+Fri, 04 Jun 2021 18:33:52 +0200 : NO senderId 
+
+Fri, 04 Jun 2021 18:33:52 +0200 : NO concat 
+
+Fri, 04 Jun 2021 18:33:52 +0200 : NO encoding
+
+Fri, 04 Jun 2021 18:33:53 +0200 : Server Altiria response: OK dest:573157123698
+
